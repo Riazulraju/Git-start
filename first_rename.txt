@@ -1,0 +1,6 @@
+This is version1 of my project
+I want to this to go into Commit2
+Changed by harry
+will be a very good web developer
+
+This is how it is
